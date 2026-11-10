@@ -1,0 +1,59 @@
+[
+  {
+    "doc_index": 3,
+    "error": [
+      {
+        "type": "string_type",
+        "loc": [
+          "title"
+        ],
+        "msg": "Input should be a valid string",
+        "input": null,
+        "url": "https://errors.pydantic.dev/2.14/v/string_type"
+      },
+      {
+        "type": "string_type",
+        "loc": [
+          "author"
+        ],
+        "msg": "Input should be a valid string",
+        "input": null,
+        "url": "https://errors.pydantic.dev/2.14/v/string_type"
+      },
+      {
+        "type": "date_type",
+        "loc": [
+          "publication_date"
+        ],
+        "msg": "Input should be a valid date",
+        "input": null,
+        "url": "https://errors.pydantic.dev/2.14/v/date_type"
+      },
+      {
+        "type": "list_type",
+        "loc": [
+          "keywords"
+        ],
+        "msg": "Input should be a valid list",
+        "input": null,
+        "url": "https://errors.pydantic.dev/2.14/v/list_type"
+      },
+      {
+        "type": "string_type",
+        "loc": [
+          "document_type"
+        ],
+        "msg": "Input should be a valid string",
+        "input": null,
+        "url": "https://errors.pydantic.dev/2.14/v/string_type"
+      }
+    ],
+    "raw": {
+      "title": null,
+      "author": null,
+      "publication_date": null,
+      "keywords": null,
+      "document_type": null
+    }
+  }
+]
